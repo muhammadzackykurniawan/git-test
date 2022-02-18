@@ -1,2 +1,2 @@
 # git-test
-untuk mencoba git remote 
+mencoba git remote 
